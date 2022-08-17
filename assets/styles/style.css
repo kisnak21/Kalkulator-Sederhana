@@ -1,6 +1,13 @@
-@media screen and (max-width: 513px) {
+@media screen and (max-width: 600px) {
     .button {
         padding: 10px;
+        flex-direction: column;
+    }
+    .operator,
+    .negative,
+    .equals {
+        padding: auto;
+        flex-direction: column;
     }
 }
 
