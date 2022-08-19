@@ -1,6 +1,5 @@
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
     .button {
-        padding: 10px;
         flex-direction: column;
     }
     .operator,
@@ -31,7 +30,7 @@ body {
 .flex-container-column {
     display: flex;
     flex-direction: column;
-    max-width: 800px;
+    max-width: 500px;
     margin: 0;
     text-align: right;
 }
