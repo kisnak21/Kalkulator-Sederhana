@@ -4,4 +4,4 @@ Haloo, ini adalah progress aplikasi yang kedua pada kelas Dasar Pemrograman Web 
 - HTML
 - CSS
 - JavaScript
-- Responsive layout with Flex
+- Responsive layout with Flex and float
